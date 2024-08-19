@@ -1,0 +1,19 @@
+p{
+background-color: rgb(255, 170, 189);
+font-family: Verdana, DejaVu Sans, Tahoma, Montserrat, sans-serif;
+}
+
+#test-div {
+color: rgb(31, 31, 247);
+font-size: 36px;
+}
+
+.test-paragraph {
+    font-size: 24px;
+}
+
+#test-div-2 {
+    background-color: rgb(146, 255, 177);
+    font-size: 24px;
+    font-weight: bold;
+}
